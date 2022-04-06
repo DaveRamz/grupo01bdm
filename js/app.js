@@ -7,7 +7,7 @@ function anotherFunction(){
     console.log("Yo tambien!");
 }
 
-h1TestId.onclick = function () { console.log("Hola x3 !")  } ;
+h1TestId.onclick = function () { console.log("Hola x4 !")  } ;
 h1TestId.addEventListener("click", sayHello);
 h1TestId.addEventListener("click",anotherFunction);
 h1TestId.removeEventListener("click",sayHello);
