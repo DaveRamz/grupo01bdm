@@ -5,6 +5,7 @@ function sayHello(){
 }
 function anotherFunction(){
     console.log("Yo tambien!");
+    console.log("Yo tambien!");
 }
 
 h1TestId.onclick = function () { console.log("Hola x3 !")  } ;
